@@ -49,7 +49,7 @@
 **You'll need:** Node.js (v16+)
 
 ```bash
-# Clone it
+
 
 
 # Install stuff
@@ -89,7 +89,7 @@ npm run build  # Creates production build
 - 🌐 [Portfolio](https://prashant-portfolios.vercel.app/)
 
 - 📧 prashantunique13@gmail.com
-- 🐙 [@Mrtracker-new](https://github.com/prashantyadav0007)
+- 🐙 [@Prashant](https://github.com/prashantyadav0007)
 - 📍 Noida, Utter Pradesh India
 
 ---
