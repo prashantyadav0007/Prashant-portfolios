@@ -2,8 +2,8 @@
 
 > My personal corner of the internet where I show off the cool stuff I've built. No corporate jargon, just a dev trying to make things that don't suck.
 
-[![Check it out live](https://img.shields.io/badge/🌐_Live_Site-Click_Here-64ffda?style=for-the-badge)](https://rolan-rnr.netlify.app/)
-[![Source Code](https://img.shields.io/badge/📂_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Mrtracker-new/RNR)
+
+
 
 **Built with:** React 19 • TypeScript • Styled Components (and a lot of coffee ☕)
 
@@ -50,8 +50,7 @@
 
 ```bash
 # Clone it
-git clone https://github.com/Mrtracker-new/RNR.git
-cd portfolio
+
 
 # Install stuff
 npm install
@@ -87,11 +86,11 @@ npm run build  # Creates production build
 
 ## 👋 Let's connect
 
-- 🌐 [Portfolio](https://rolan-rnr.netlify.app/)
-- 📝 [Blog](https://rnr-still-figuring-things-out.hashnode.dev/)
-- 📧 rolanlobo901@gmail.com
-- 🐙 [@Mrtracker-new](https://github.com/Mrtracker-new)
-- 📍 Karnataka, India (IST)
+- 🌐 [Portfolio](https://prashant-portfolios.vercel.app/)
+
+- 📧 prashantunique13@gmail.com
+- 🐙 [@Mrtracker-new](https://github.com/prashantyadav0007)
+- 📍 Noida, Utter Pradesh India
 
 ---
 

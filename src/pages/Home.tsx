@@ -559,7 +559,7 @@ const Home: React.FC = () => {
                   exit={{ opacity: 0 }}
                   transition={{ duration: 0.3 }}
                 >
-                  <img src={profileImage} alt="Prashant Yadav (Rolan RNR) - Full Stack Developer" />
+                  <img src={profileImage} alt="Prashant Yadav (Prashant Yadav) - Full Stack Developer" />
                 </StylizedImage>
               ) : (
                 <StylizedImage
